@@ -1,0 +1,6 @@
+
+
+
+
+ cd /home/ben/Downloads/my-app/src ; /usr/bin/env /home/ben/.vscode/extensions/redhat.java-1.58.0-linux-x64/jre/25.0.4.1-linux-x86_64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:35091 -XX:+ShowCodeDetailsInExceptionMessages -cp /home/ben/.config/Code/User/workspaceStorage/0a5d5aa90cece67527cedc66834d951d/redhat.java/jdt_ws/jdt.ls-java-project/bin com.example.App 
+
