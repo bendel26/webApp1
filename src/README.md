@@ -9,7 +9,8 @@ Welcome to this project combining Java app development and Ubuntu with VSCode CI
 - [Introduction](#introduction)
 
 galing nappsh kona yung display...MABUHAY!!! 
-Si edna Mode na... hahaha
+Si edna Mode na... /n
+
 <br>
 
 
