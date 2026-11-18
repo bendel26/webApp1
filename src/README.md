@@ -8,7 +8,7 @@ Welcome to this project combining Java app development and Ubuntu with VSCode CI
 ## Table of Contents
 - [Introduction](#introduction)
 
-galing nappsh kona yung display...walastek!!!
+galing nappsh kona yung display...MABUHAY!!!
 <br>
 
 
