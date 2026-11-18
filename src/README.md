@@ -8,7 +8,8 @@ Welcome to this project combining Java app development and Ubuntu with VSCode CI
 ## Table of Contents
 - [Introduction](#introduction)
 
-galing nappsh kona yung display...MABUHAY!!!
+galing nappsh kona yung display...MABUHAY!!! 
+Si edna Mode na... hahaha
 <br>
 
 
